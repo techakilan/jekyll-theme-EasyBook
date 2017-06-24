@@ -10,13 +10,13 @@ description: >
 email: techakilan@gmail.com
 author: Akilan Tamilarrasu
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: Cretified AWS Solution Architect
+profile: Certified AWS Solution Architect
 #twitter_username: akilkudil
 #github_username:  techakilan
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+disqus_shortname: techakilan   # get one: https://disqus.com/admin/signup/
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title
